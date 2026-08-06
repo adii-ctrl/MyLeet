@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/adii-ctrl/MyLeet/tree/master/0007-reverse-integer) |
+| [0877-stone-game](https://github.com/adii-ctrl/MyLeet/tree/master/0877-stone-game) |
 ## Array
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adii-ctrl/MyLeet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0877-stone-game](https://github.com/adii-ctrl/MyLeet/tree/master/0877-stone-game) |
 | [3731-find-missing-elements](https://github.com/adii-ctrl/MyLeet/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -24,4 +26,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adii-ctrl/MyLeet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/adii-ctrl/MyLeet/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/adii-ctrl/MyLeet/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/adii-ctrl/MyLeet/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/adii-ctrl/MyLeet/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
