@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/adii-ctrl/MyLeet/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/adii-ctrl/MyLeet/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adii-ctrl/MyLeet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/adii-ctrl/MyLeet/tree/master/0189-rotate-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/adii-ctrl/MyLeet/tree/master/0011-container-with-most-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adii-ctrl/MyLeet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/adii-ctrl/MyLeet/tree/master/0189-rotate-array) |
 ## Dynamic Programming
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/adii-ctrl/MyLeet/tree/master/0053-maximum-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/adii-ctrl/MyLeet/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
