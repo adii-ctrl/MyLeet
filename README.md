@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adii-ctrl/MyLeet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/adii-ctrl/MyLeet/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/adii-ctrl/MyLeet/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/adii-ctrl/MyLeet/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/adii-ctrl/MyLeet/tree/master/0238-product-of-array-except-self) |
 | [0845-longest-mountain-in-array](https://github.com/adii-ctrl/MyLeet/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/adii-ctrl/MyLeet/tree/master/0877-stone-game) |
@@ -82,5 +83,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/adii-ctrl/MyLeet/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/adii-ctrl/MyLeet/tree/master/0238-product-of-array-except-self) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/adii-ctrl/MyLeet/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/adii-ctrl/MyLeet/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
