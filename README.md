@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/adii-ctrl/MyLeet/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/adii-ctrl/MyLeet/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adii-ctrl/MyLeet/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/adii-ctrl/MyLeet/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/adii-ctrl/MyLeet/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adii-ctrl/MyLeet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/adii-ctrl/MyLeet/tree/master/0088-merge-sorted-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/adii-ctrl/MyLeet/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/adii-ctrl/MyLeet/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adii-ctrl/MyLeet/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/adii-ctrl/MyLeet/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adii-ctrl/MyLeet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/adii-ctrl/MyLeet/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/adii-ctrl/MyLeet/tree/master/0189-rotate-array) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/adii-ctrl/MyLeet/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/adii-ctrl/MyLeet/tree/master/0053-maximum-subarray) |
 | [0845-longest-mountain-in-array](https://github.com/adii-ctrl/MyLeet/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/adii-ctrl/MyLeet/tree/master/0877-stone-game) |
@@ -99,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/adii-ctrl/MyLeet/tree/master/0242-valid-anagram) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/adii-ctrl/MyLeet/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/adii-ctrl/MyLeet/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
