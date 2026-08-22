@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/adii-ctrl/MyLeet/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adii-ctrl/MyLeet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/adii-ctrl/MyLeet/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/adii-ctrl/MyLeet/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/adii-ctrl/MyLeet/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/adii-ctrl/MyLeet/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/adii-ctrl/MyLeet/tree/master/0238-product-of-array-except-self) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/adii-ctrl/MyLeet/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/adii-ctrl/MyLeet/tree/master/0242-valid-anagram) |
 | [3731-find-missing-elements](https://github.com/adii-ctrl/MyLeet/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/adii-ctrl/MyLeet/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/adii-ctrl/MyLeet/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/adii-ctrl/MyLeet/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/adii-ctrl/MyLeet/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/adii-ctrl/MyLeet/tree/master/0242-valid-anagram) |
 | [3731-find-missing-elements](https://github.com/adii-ctrl/MyLeet/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/adii-ctrl/MyLeet/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/adii-ctrl/MyLeet/tree/master/0169-majority-element) |
 ## Greedy
 |  |
 | ------- |
@@ -110,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adii-ctrl/MyLeet/tree/master/0042-trapping-rain-water) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/adii-ctrl/MyLeet/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/adii-ctrl/MyLeet/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
