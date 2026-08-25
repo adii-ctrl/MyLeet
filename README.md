@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adii-ctrl/MyLeet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/adii-ctrl/MyLeet/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/adii-ctrl/MyLeet/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/adii-ctrl/MyLeet/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adii-ctrl/MyLeet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/adii-ctrl/MyLeet/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/adii-ctrl/MyLeet/tree/master/0152-maximum-product-subarray) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adii-ctrl/MyLeet/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/adii-ctrl/MyLeet/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/adii-ctrl/MyLeet/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/adii-ctrl/MyLeet/tree/master/0152-maximum-product-subarray) |
 | [0845-longest-mountain-in-array](https://github.com/adii-ctrl/MyLeet/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/adii-ctrl/MyLeet/tree/master/0877-stone-game) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adii-ctrl/MyLeet/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/adii-ctrl/MyLeet/tree/master/0055-jump-game) |
 ## Enumeration
 |  |
 | ------- |
