@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/adii-ctrl/MyLeet/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/adii-ctrl/MyLeet/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/adii-ctrl/MyLeet/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/adii-ctrl/MyLeet/tree/master/0877-stone-game) |
 ## Array
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/adii-ctrl/MyLeet/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/adii-ctrl/MyLeet/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/adii-ctrl/MyLeet/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/adii-ctrl/MyLeet/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adii-ctrl/MyLeet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0845-longest-mountain-in-array](https://github.com/adii-ctrl/MyLeet/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/adii-ctrl/MyLeet/tree/master/0877-stone-game) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/adii-ctrl/MyLeet/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/adii-ctrl/MyLeet/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/adii-ctrl/MyLeet/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adii-ctrl/MyLeet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3731-find-missing-elements](https://github.com/adii-ctrl/MyLeet/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -47,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/adii-ctrl/MyLeet/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/adii-ctrl/MyLeet/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/adii-ctrl/MyLeet/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/adii-ctrl/MyLeet/tree/master/0268-missing-number) |
 | [3731-find-missing-elements](https://github.com/adii-ctrl/MyLeet/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -105,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/adii-ctrl/MyLeet/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/adii-ctrl/MyLeet/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -129,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adii-ctrl/MyLeet/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/adii-ctrl/MyLeet/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
