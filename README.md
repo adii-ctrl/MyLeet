@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/adii-ctrl/MyLeet/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/adii-ctrl/MyLeet/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/adii-ctrl/MyLeet/tree/master/0877-stone-game) |
+| [3875-construct-uniform-parity-array-i](https://github.com/adii-ctrl/MyLeet/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/adii-ctrl/MyLeet/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/adii-ctrl/MyLeet/tree/master/0877-stone-game) |
 | [3731-find-missing-elements](https://github.com/adii-ctrl/MyLeet/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/adii-ctrl/MyLeet/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
