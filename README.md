@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/adii-ctrl/MyLeet/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/adii-ctrl/MyLeet/tree/master/0392-is-subsequence) |
+| [3498-reverse-degree-of-a-string](https://github.com/adii-ctrl/MyLeet/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/adii-ctrl/MyLeet/tree/master/0258-add-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/adii-ctrl/MyLeet/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
