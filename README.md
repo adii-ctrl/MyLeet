@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/adii-ctrl/MyLeet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/adii-ctrl/MyLeet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adii-ctrl/MyLeet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adii-ctrl/MyLeet/tree/master/0242-valid-anagram) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/adii-ctrl/MyLeet/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adii-ctrl/MyLeet/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/adii-ctrl/MyLeet/tree/master/0088-merge-sorted-array) |
+| [0160-intersection-of-two-linked-lists](https://github.com/adii-ctrl/MyLeet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/adii-ctrl/MyLeet/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/adii-ctrl/MyLeet/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/adii-ctrl/MyLeet/tree/master/0392-is-subsequence) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/adii-ctrl/MyLeet/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/adii-ctrl/MyLeet/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/adii-ctrl/MyLeet/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
