@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/adii-ctrl/MyLeet/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/adii-ctrl/MyLeet/tree/master/0877-stone-game) |
 | [1470-shuffle-the-array](https://github.com/adii-ctrl/MyLeet/tree/master/1470-shuffle-the-array) |
+| [1732-find-the-highest-altitude](https://github.com/adii-ctrl/MyLeet/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/adii-ctrl/MyLeet/tree/master/1929-concatenation-of-array) |
 | [3731-find-missing-elements](https://github.com/adii-ctrl/MyLeet/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/adii-ctrl/MyLeet/tree/master/3875-construct-uniform-parity-array-i) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/adii-ctrl/MyLeet/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/adii-ctrl/MyLeet/tree/master/0238-product-of-array-except-self) |
+| [1732-find-the-highest-altitude](https://github.com/adii-ctrl/MyLeet/tree/master/1732-find-the-highest-altitude) |
 ## Binary Search
 |  |
 | ------- |
