@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/adii-ctrl/MyLeet/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/adii-ctrl/MyLeet/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/adii-ctrl/MyLeet/tree/master/0877-stone-game) |
+| [2396-strictly-palindromic-number](https://github.com/adii-ctrl/MyLeet/tree/master/2396-strictly-palindromic-number) |
 | [3870-count-commas-in-range](https://github.com/adii-ctrl/MyLeet/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/adii-ctrl/MyLeet/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/adii-ctrl/MyLeet/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/adii-ctrl/MyLeet/tree/master/0392-is-subsequence) |
 | [0845-longest-mountain-in-array](https://github.com/adii-ctrl/MyLeet/tree/master/0845-longest-mountain-in-array) |
+| [2396-strictly-palindromic-number](https://github.com/adii-ctrl/MyLeet/tree/master/2396-strictly-palindromic-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/adii-ctrl/MyLeet/tree/master/0069-sqrtx) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/adii-ctrl/MyLeet/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
