@@ -156,11 +156,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/adii-ctrl/MyLeet/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/adii-ctrl/MyLeet/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/adii-ctrl/MyLeet/tree/master/0392-is-subsequence) |
+| [1021-remove-outermost-parentheses](https://github.com/adii-ctrl/MyLeet/tree/master/1021-remove-outermost-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/adii-ctrl/MyLeet/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adii-ctrl/MyLeet/tree/master/0042-trapping-rain-water) |
+| [1021-remove-outermost-parentheses](https://github.com/adii-ctrl/MyLeet/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -208,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/adii-ctrl/MyLeet/tree/master/2396-strictly-palindromic-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/adii-ctrl/MyLeet/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
