@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/adii-ctrl/MyLeet/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/adii-ctrl/MyLeet/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/adii-ctrl/MyLeet/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/adii-ctrl/MyLeet/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/adii-ctrl/MyLeet/tree/master/0392-is-subsequence) |
 | [1021-remove-outermost-parentheses](https://github.com/adii-ctrl/MyLeet/tree/master/1021-remove-outermost-parentheses) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/adii-ctrl/MyLeet/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/adii-ctrl/MyLeet/tree/master/0042-trapping-rain-water) |
 | [1021-remove-outermost-parentheses](https://github.com/adii-ctrl/MyLeet/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
@@ -213,5 +215,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/adii-ctrl/MyLeet/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/adii-ctrl/MyLeet/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
