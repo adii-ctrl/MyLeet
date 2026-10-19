@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/adii-ctrl/MyLeet/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/adii-ctrl/MyLeet/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/adii-ctrl/MyLeet/tree/master/0877-stone-game) |
+| [2235-add-two-integers](https://github.com/adii-ctrl/MyLeet/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/adii-ctrl/MyLeet/tree/master/2396-strictly-palindromic-number) |
 | [3870-count-commas-in-range](https://github.com/adii-ctrl/MyLeet/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/adii-ctrl/MyLeet/tree/master/3875-construct-uniform-parity-array-i) |
