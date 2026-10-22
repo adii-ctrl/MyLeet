@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/adii-ctrl/MyLeet/tree/master/1470-shuffle-the-array) |
 | [1732-find-the-highest-altitude](https://github.com/adii-ctrl/MyLeet/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/adii-ctrl/MyLeet/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/adii-ctrl/MyLeet/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3731-find-missing-elements](https://github.com/adii-ctrl/MyLeet/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/adii-ctrl/MyLeet/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/adii-ctrl/MyLeet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adii-ctrl/MyLeet/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adii-ctrl/MyLeet/tree/master/0268-missing-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/adii-ctrl/MyLeet/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3731-find-missing-elements](https://github.com/adii-ctrl/MyLeet/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/adii-ctrl/MyLeet/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/adii-ctrl/MyLeet/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/adii-ctrl/MyLeet/tree/master/0268-missing-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/adii-ctrl/MyLeet/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
 | ------- |
