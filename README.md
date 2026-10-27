@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/adii-ctrl/MyLeet/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/adii-ctrl/MyLeet/tree/master/0877-stone-game) |
 | [1470-shuffle-the-array](https://github.com/adii-ctrl/MyLeet/tree/master/1470-shuffle-the-array) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/adii-ctrl/MyLeet/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1732-find-the-highest-altitude](https://github.com/adii-ctrl/MyLeet/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/adii-ctrl/MyLeet/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adii-ctrl/MyLeet/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/adii-ctrl/MyLeet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adii-ctrl/MyLeet/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adii-ctrl/MyLeet/tree/master/0268-missing-number) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/adii-ctrl/MyLeet/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adii-ctrl/MyLeet/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3731-find-missing-elements](https://github.com/adii-ctrl/MyLeet/tree/master/3731-find-missing-elements) |
 ## Two Pointers
